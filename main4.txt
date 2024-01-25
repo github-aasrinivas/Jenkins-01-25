@@ -1,1 +1,3 @@
-This is my main4.txt file created after configuring webhooks....
+This is my main4.txt file created after 
+(1) configuring webhooks in Github project repo and 
+(2) enabling the option "GitHub hook trigger for GITScm polling" in Jenkins Job as well
